@@ -108,7 +108,7 @@ li{
     justify-content: center;
     align-items: center;
     color: rgb(85, 83, 83);
-    height: 70rem;
+    height: 45rem;
     box-shadow: 0 60px 80px rgba(0, 0, 0, 0.60), 0 45px 26px rgba(0, 0, 0, 0.14);
     width: 60%;
 }
@@ -148,7 +148,7 @@ li{
 }
 
 .abtContainer {
-    height: 80rem;
+    height: 53rem;
     display: flex;
     justify-content: center;
 
@@ -354,7 +354,7 @@ footer h2 {
         margin-left: 5px;
     }
     .abtContainer{
-        height: 110rem;
+        height: 70rem;
     }
     .navul{
         display: none;
@@ -377,7 +377,7 @@ footer h2 {
     }
     .about{
         width:93%;
-        height: 104rem;
+        height: 60rem;
         
     }
     .hamburger{
